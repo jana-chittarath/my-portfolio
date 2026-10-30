@@ -1,5 +1,5 @@
 # 🌱 Welcome to my portfolio!
-Here's a summary of my past and current projects!
+Here's a summary of my data analytics and software development projects!
 
 ---
 
